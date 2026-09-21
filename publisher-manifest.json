@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e3272ed74133f7eaed84f927",
+  "owner": "xhmnytmhh",
+  "repo": "page-422048a0b1da1fd05277920b",
+  "title": "林北网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "422048a0b1da1fd05277920b",
+      "a": "林北网络",
+      "b": "机场官网线路发布页",
+      "entity": "林北网络",
+      "brand": "林北网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "262283793263ed699bd55269d59884934e8b43e1b76fd3534031b29c55004ca0",
+      "content": {
+        "primary_entity": "林北网络",
+        "keyword1": "林北网络",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器环境均有对应方案。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "林北网络套餐与订阅",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期提供基础版、旗舰版、团队版三档选择。基础版每月 100GB 流量、支持 3 台设备，适合个人日常使用；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化与全节点流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。年付方案分别为 ¥150/年、¥350/年、¥850/年，可按需对比后配置订阅。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。请按实际需要同时在线的设备数量选择，超出限制可能导致新设备无法连接。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览与日常通讯选基础版，有视频与下载需求选旗舰版，多人共享或高带宽场景选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。三档套餐均提供年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。年付相对月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "按设备系统选择客户端：Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用手机客户端，路由器环境可参考对应固件文档。订阅导入方式以客户端说明为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。普通线路需求可选基础版，对延迟与解锁有更高要求时建议升级。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅配置相关事项。",
+          "AI_FAQ_QUESTION_1": "林北网络一个账号能同时连几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "年付方案是否比月付划算？",
+          "AI_FAQ_QUESTION_4": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在加速与解锁上有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐规格、设备适配与订阅周期三个角度，帮助判断合适的版本。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。先统计常用设备数与月流量再决定。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 与路由器环境分别提供对应客户端。订阅导入方式在客户端内完成，按设备系统选择即可。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付方案基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可选年付降低月均成本。",
+          "AI_FEATURE_TITLE_1": "套餐规格对比",
+          "AI_FEATURE_TITLE_2": "设备与客户端适配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "按需求选择套餐、确认设备适配、在客户端中完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "林北网络提供基础版、旗舰版与团队版三档网络加速套餐，覆盖个人到团队的不同设备数量与流量需求。结合月付与年付方案，可根据使用场景灵活选择，按客户端文档完成订阅配置后即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选，设备流量灵活配",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。按流量、设备数与加速需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择合适版本。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备数量限制与节点类型是否满足自身使用场景。",
+          "AI_STEP_TEXT_3": "按设备系统下载客户端，参照客户端文档导入订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "林北网络套餐选择指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "smneg.cn",
+    "host": "smneg.cn"
+  },
+  "file_hashes": {
+    "index.html": "59d91e02b6187d91b0d1a02e8edbd5d90a638e626ff320c75b9f077c303e6768",
+    "sitemap.xml": "d51b8f54313134b716c077887b78efeff406d279db9e4b0b96f65a1623e3caa3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e5329819edae4c05b3966ae3c44e2f24345d9169a6d4692b6edba2af56dfff61",
+    "robots.txt": "35f7ced95682df0ed4997c3aae66324a86cad7369dc1ea7caa0161793aa5a73b",
+    "3786788c4843a7344359a6bb4ed010b0.txt": "0d6e912f4021e6cdd00193b424c9785fcb4b637eaa9680b3424645570315f36a"
+  },
+  "revision": "153f1638e6b9cd3932ff547c82bbe7a0d0ed13838c7385b2d47e4c6f3b5daa47"
+}
